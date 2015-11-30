@@ -1,0 +1,1 @@
+Dieses Plugin legt 20 weitere Attributsfelder an.
