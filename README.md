@@ -1,5 +1,8 @@
 # SwagAdditionalAttributes
 
+## Supported versions
+Shopware version 4.1.0 or higher
+
 ## Description
 
 Does your shop require several item variants? Are the 20 attribute fields that come standard with Shopware not enough?
