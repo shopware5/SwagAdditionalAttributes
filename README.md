@@ -1,7 +1,6 @@
 # SwagAdditionalAttributes
-
-## Supported versions
-Shopware version 4.1.0 or higher
+> Working with Shopware version 4.0.7 to 5.1.1.
+> Higher versions may work either but were not tested.
 
 ## Description
 
